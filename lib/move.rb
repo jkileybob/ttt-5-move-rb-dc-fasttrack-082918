@@ -12,7 +12,7 @@ def input_to_index(user_input)
 end
 
 def move(board, position, character = "X")
-  puts "the board is: #{board}"
+  puts "the board is #{board}"
   puts "the index is #{index}"
   puts "the character is #{character}"
   board[index] = character
