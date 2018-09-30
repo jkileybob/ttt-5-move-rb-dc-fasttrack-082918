@@ -7,3 +7,5 @@ require_relative '../lib/move.rb'
 # gets = read in ipout from the user
 
 puts "Welcom to Tic Tac Toe!"
+
+board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
