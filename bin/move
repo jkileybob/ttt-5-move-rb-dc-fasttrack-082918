@@ -6,7 +6,7 @@ require_relative '../lib/move.rb'
 # CLI = Command Line Interface
 # gets = read in ipout from the user
 
-puts "Welcom to Tic Tac Toe!"
+puts "Welcome to Tic Tac Toe!"
 
 board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 
