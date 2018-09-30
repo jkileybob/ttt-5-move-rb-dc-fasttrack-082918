@@ -3,3 +3,7 @@
 require_relative '../lib/move.rb'
 
 # Code your CLI Here
+# CLI = Command Line Interface
+# gets = read in ipout from the user
+
+puts "Welcom to Tic Tac Toe!"
